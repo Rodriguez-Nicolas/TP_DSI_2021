@@ -10,12 +10,10 @@ using System.Windows.Forms;
 
 namespace TP_DSI_2021
 {
-    public partial class Form1 : Form
+    public partial class formRegistrarReserva : Form
     {
-        public Form1()
+        public formRegistrarReserva()
         {
             InitializeComponent();
         }
-
-    }
 }
